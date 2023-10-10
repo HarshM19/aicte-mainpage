@@ -96,7 +96,7 @@
 .international-yoga-day-container1 {
   position: absolute;
   top: 798px;
-  left: 492px;
+  left: 455px;
   text-decoration: underline;
   line-height: 122.02%;
   font-weight: 300;
@@ -105,6 +105,7 @@
   display: inline-block;
   width: 345px;
   height: 28px;
+  font-size: var(--font-size-xl);     
 }
 .international-yoga-day-container1 {
   top: 831px;
@@ -116,12 +117,13 @@
 .rangoli-workshop-photos-container {
   position: absolute;
   top: 917px;
-  left: 510px;
+  left: 490px;
   text-decoration: underline;
   line-height: 122.02%;
   font-weight: 300;
   color: inherit;
   display: inline-block;
+  font-size: var(--font-size-xl);
   width: 334px;
   height: 44px;
 }
@@ -130,33 +132,35 @@
 .photo-and-reels-container1,
 .rangoli-workshop-photos-container {
   top: 942px;
-  left: 507px;
+  left: 490px;
 }
 .music-classes-photos-container,
 .music-classes-report-container,
 .rangoli-workshop-photos-container {
   top: 975px;
-  left: 511px;
+  left: 490px;
   width: 261px;
   height: 39px;
 }
 .music-classes-report-container,
 .rangoli-workshop-photos-container {
   top: 999px;
-  left: 510px;
+  left: 490px;
   height: 42px;
 }
 .rangoli-workshop-photos-container {
-  top: 1041px;
-  left: 511px;
+  top: 1035px;
+  left: 490px;
   width: 279px;
   height: 41px;
+  font-size: var(--font-size-xl);
 }
 .meraki-wall-painting-container {
-  top: 763px;
+  top: 742px;
   left: 955px;
   width: 425px;
   height: 41px;
+  font-size: var(--font-size-xl);
 }
 .blood-donation-drive-container,
 .meraki-wall-painting-container,
@@ -169,15 +173,17 @@
   display: inline-block;
 }
 .meraki-wall-painting-container1 {
-  top: 789px;
+  top: 768px;
   left: 955px;
   width: 425px;
   height: 17px;
+  font-size: var(--font-size-xl);
 }
 .blood-donation-drive-container {
   top: 817px;
-  left: 954px;
+  left: 955px;
   width: 328px;
+  font-size: var(--font-size-xl);
 }
 .anti-tobacco-poster-making-container,
 .anti-tobacco-poster-making-container1,
@@ -194,13 +200,14 @@
   display: inline-block;
   width: 328px;
   height: 29px;
+  font-size: var(--font-size-xl);
 }
 .anti-tobacco-poster-making-container,
 .anti-tobacco-poster-making-container1,
 .kalakari-photos,
 .kalakari-report {
   top: 901px;
-  left: 960px;
+  left: 955px;
   width: 189px;
   height: 41px;
 }
@@ -218,7 +225,7 @@
 }
 .anti-tobacco-poster-making-container1 {
   top: 1039px;
-  left: 953px;
+  left: 955px;
   height: 28px;
 }
 .image-2-icon {
@@ -284,16 +291,17 @@
 .yoga-day-reports {
   position: absolute;
   top: 859px;
-  left: 510px;
+  left: 490px;
   text-decoration: underline;
   line-height: 122.02%;
   font-weight: 300;
   color: inherit;
+  font-size: var(--font-size-xl);
   text-align: center;
 }
 .yoga-day-reports {
   top: 890px;
-  left: 540px;
+  left: 520px;
   font-size: var(--font-size-xl);
   font-family: var(--font-inter);
 }
