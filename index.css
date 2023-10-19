@@ -1,10 +1,6 @@
 .parent {
-  background: linear-gradient(
-    90deg,
-    rgba(2, 0, 36, 1) 0%,
-    rgba(9, 9, 121, 1) 35%,
-    rgba(0, 212, 255, 1) 100%
-  );
+ background: rgb(2,0,36);
+background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(235,244,245,1) 0%, rgba(181,198,224,1) 100%);
   /* width: 100%; */
   width: 100vw;
   height: 100%;
@@ -33,7 +29,7 @@
 .heading-1 {
   margin: 3vh 0;
   font-size: 2rem;
-}
+} 
 
 .heading-2 {
   margin: 1vh 0;
@@ -41,26 +37,34 @@
 }
 
 .partner-logos {
-  margin: 3vh 0;
+  margin: 2vh 0;
   display: flex;
   flex-direction: row;
   justify-content: center;
+  text-align: center;
 }
 
 .partner-logo {
-  width: 10vw;
-  margin: 0 1vw;
+  width: 9vw;
+  height: 10vw;
+  margin: 0 0vw;
 }
-
+figcaption{
+  text-align: center;
+}
 .activities {
   display: flex;
   flex-direction: column;
   align-items: center;
+  font-size: 1.5vw;
 }
 
 .activities-list {
   display: flex;
-  flex-direction: row;
-  justify-content: center;
+  flex-direction: column;
+  text-align: left;
+  justify-content: left;
   width: 60vw;
+  font-size: 1.5vw;
+  align-items: right;
 }

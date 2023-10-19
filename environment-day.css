@@ -3,9 +3,11 @@
   flex-direction: row;
   justify-content: space-evenly;
 }
-
+.partner-logo{
+  margin: 2vh 2vh;  
+}
 .event-header {
-  color: white;
+  color: black;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -32,4 +34,5 @@
 .event-poster {
   width: 20%;
   object-fit: cover;
+
 }
